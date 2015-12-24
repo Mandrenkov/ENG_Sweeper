@@ -2,7 +2,7 @@
 
 Engineering-themed Minesweeper game for the McMaster 2014 Winter EPIC Game Challenge.
 
-Required: Python 2.7 or later Python 2 version
+Required: Python 2.7 or later (Python 2.x)
 
 Setup Instructions: Unzip the attached folder, and run _RunMe.py (e.g., "python _RunMe.py" in command prompt)
 
